@@ -52,7 +52,7 @@
 }
 h1{
     color:#fff;
-    font-size:100px; 
+    font-size:80px; 
 }
 
 p1{
@@ -95,13 +95,13 @@ p{
     background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(Imagenes/calistenia.png);
 }
 .card6{
-    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(Imagenes/spotify.png);
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(Imagenes/spotify.jpg);
 }
 .card7{
-   background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(Imagenes/frenado.png);
+   background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(Imagenes/inter.jpg);
 }
 .card8{
-    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(Imagenes/Contaminacion.png);
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(Imagenes/party.jpg);
 }
 
 .card:hover{
